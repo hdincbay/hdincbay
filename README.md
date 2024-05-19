@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Dinçbay</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [RestaurantApp](https://github.com/hdincbay/RestaurantApp.NetMVC) <br/> <br/>
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-din%C3%A7bay-944434269/)
 
 <h3 align="left">Languages and Tools:</h3>
